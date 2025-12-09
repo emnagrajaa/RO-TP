@@ -1,0 +1,18 @@
+Solution du Problème de Transport
+Généré le: 09/12/2025 17:02:09
+
+E1;E2;E3;Offre;Coût usine
+0.00;5.00;20.00;25.00;320.00
+20.00;0.00;0.00;20.00;420.00
+10.00;20.00;0.00;30.00;950.00
+30.00;25.00;20.00;;
+;;;;1690.00
+
+Informations supplémentaires:
+"✓ SOLUTION OPTIMALE TROUVÉE !
+
+Coût total minimal:
+1690.00
+Nombre de variables:
+9
+Nombre de contrain"
