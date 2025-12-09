@@ -89,6 +89,4 @@ python transport_app.py
 - **Gurobi**: Linear optimization solver
 - **CSV**: Results export format
 
-## Contact
 
-For questions or suggestions, please open an issue on GitHub.
